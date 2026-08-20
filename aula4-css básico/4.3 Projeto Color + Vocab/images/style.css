@@ -1,0 +1,43 @@
+body {
+    font-family: "Times New Roman", serif;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.cor p {
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+.cor img {
+    height: 200px;
+    width: 200px;
+}
+
+.rojo p {
+    color: red;
+}
+
+.azul p {
+    color: blue;
+}
+
+.anaranjado p {
+    color: orange;
+}
+
+.verde p {
+    color: green;
+}
+
+.amarillo p {
+    color: yellow;
+}

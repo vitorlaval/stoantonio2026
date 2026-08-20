@@ -1,0 +1,24 @@
+
+p.elemento {
+    color: red;
+}
+
+
+.classe {
+    color: black;
+}
+
+
+#identificador {
+    color: green;
+}
+
+
+[data-tipo="atributo"] {
+    color: blue;
+}
+
+
+* {
+    font-family: "Times New Roman", serif;
+}
